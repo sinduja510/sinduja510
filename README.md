@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinduja510
 - 👀 I’m interested in playing games
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me text me
 - 😄 Pronouns: Sindhu
